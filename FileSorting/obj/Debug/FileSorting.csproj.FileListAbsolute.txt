@@ -1,0 +1,7 @@
+E:\OneDrive\Software\C\FileSorting\FileSorting\bin\Debug\FileSorting.exe.config
+E:\OneDrive\Software\C\FileSorting\FileSorting\bin\Debug\FileSorting.exe
+E:\OneDrive\Software\C\FileSorting\FileSorting\bin\Debug\FileSorting.pdb
+E:\OneDrive\Software\C\FileSorting\FileSorting\obj\Debug\FileSorting.csprojAssemblyReference.cache
+E:\OneDrive\Software\C\FileSorting\FileSorting\obj\Debug\FileSorting.csproj.CoreCompileInputs.cache
+E:\OneDrive\Software\C\FileSorting\FileSorting\obj\Debug\FileSorting.exe
+E:\OneDrive\Software\C\FileSorting\FileSorting\obj\Debug\FileSorting.pdb
